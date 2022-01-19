@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="2" SkinType="WebHelp2" ComponentType="MasterPage" TemplateName="Fluid" Comment="HTMK5 Too Navhgathon sjin" EnableResponsiveOutput="True">
+    <WebHelpOptions NavigationPanePosition="Right" />
+    <Stylesheet />
+</CatapultSkin>
